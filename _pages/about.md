@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Mengyu's academic hub!"
+title: "Welcome to Mengyu's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
