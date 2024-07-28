@@ -21,7 +21,7 @@ repository               : "im-mengyuli/im-mengyuli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mengyu_profile.jpeg"
+  avatar           : "mengyu_profile.jpg"
   name             : "Mengyu Li"
   pronouns         : "she/her/hers"  
   bio              : "Ph.D. candidate in Mass Communication"
