@@ -5,42 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed Publications
+## Technology affordances and strategic communication in multiplatform media environment
+Mak, M. K., <b>Li, M.*<b/>, & Rojas, H. (2024). Social Media and Perceived Political Polarization: Role of Perceived Platform Affordances, Participation in Uncivil Political Discussion, and Perceived Others’ Engagement. <i>Social Media+ Society<i/>, 10(1). [∗co-first author] ([DOI](https://doi.org/10.1177/20563051241228595))
 
-### Digital Media in Authoritarian Governance
-Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (2023). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>. Online First in October 2023. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
+<b>Li, M.<b/>, Sun, L., Wang, Y., Sun, Y., Kwon, H., Suk, J., ... & Shah, D. V. (2023). Computational approaches to online political expression: a framework for research. In <i>Handbook of Digital Politics<i/> (pp. 110-167). Edward Elgar Publishing. ([PDF](https://www.researchgate.net/profile/Mengyu-Li-19/publication/375877051_Computational_approaches_to_online_political_expression_a_framework_for_research/links/65c8ddb01bed776ae341328f/Computational-approaches-to-online-political-expression-a-framework-for-research.pdf))
 
-Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China</b>. <i>The International Journal of Press/Politics</i>. [∗co-first author] ([DOI](https://journals.sagepub.com/doi/10.1177/19401612231153107))
+Suk, J., Sun, Y., Sun, L., <b>Li, M.</b>, Farías, C., Kwon, H., ... & Shah, D. V. (2024). ‘Think global, act local’: How# MeToo hybridized across borders and platforms for contextual relevance. <i>Information, Communication & Society<i>, 27(3), 498-519. ([DOI]([https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914](https://doi.org/10.1080/1369118X.2023.2219716))
 
-<b>Lu, Y.</b>, Schaefer, J., Park, K., Joo, J., & Pan, J. (2022). <b>How Information Flows from the World to China</b>. <i>The International Journal of Press/Politics</i>. Online First in August 2022. ([DOI](https://journals.sagepub.com/doi/10.1177/19401612221117470), [Replication](https://doi.org/10.7910/DVN/7C7FEI))
+## Mediated experience and persuasive effects of multimodal & AI-powered media
+<b>Li, M.*</b>, Li, G., Yang, S. (forthcoming) Correction by Distraction: How High-Tempo Music Enhances Medical Experts’ Debunking TikTok Videos. <i>Journal of Computer-Mediated Communication.<i/> [∗co-first author]
 
-<b>Lu, Y.</b>, & Pan J. (2022). <b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos</b>. <i>Computational Communication Research</i>. 4(1). 68-97. ([DOI](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.LU), [Replication](https://github.com/yingdanlu/Douyin_CCR))
+Li, G., Mak, M., Li, M., & Rojas, H. (Year). Partisan news use and support for artificial intelligence development: Examining the mediating roles of trust, perceived benefits, and anxiety. Available at [SSRN](http://dx.doi.org/10.2139/ssrn.4763801)
 
-<b>Lu, Y.</b>, Pan J., & Xu Y. (2021). <b>Public Sentiment on Chinese Social Media during the Emergence of COVID-19</b>. <i>Journal of Quantitative Description: Digital Media.</i> 1, 2021, 1-47. ([DOI](https://doi.org/10.51685/jqd.2021.013), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIIQUG))
-
-<b>Lu, Y.</b>, & Pan J. (2021). <b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity</b>. <i>Political Communication</i>. 38(1-2), 23-54. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
-
-
-### Digital Multimodal Experiences and Effects
-<b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 1-28. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=))
-
-Qian, S., <b>Lu, Y.</b>, & Peng, Y., Shen, C. & Xu, H. (2024). <b>Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram</b>. <i>Public Relations Review</i>, Online First in March 2024. ([DOI](https://drive.google.com/file/d/1Km2gyqiDD7XEG5BycAbxIMvumh92HoNV/view))
-
-Christin, A., & <b>Lu, Y.</b> (2023). <b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism</b>. <i>New Media & Society</i>. ([DOI](https://doi.org/10.1177/14614448231164995))
-
-<b>Lu, Y.</b>, & Shen, C. (2023). <b>Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin)</b>. <i>Social Media + Society</i>. ([DOI](https://journals.sagepub.com/doi/10.1177/20563051221150406))
-
-Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (2023). <b>An Agenda for Studying Credibility Perceptions of Visual Misinformation</b>. <i>Political Communication</i>. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2023.2175398))
-
-Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments</b>. <i>Mobile Media & Communication</i>. 10(3), 487–509. ([DOI](https://journals.sagepub.com/doi/full/10.1177/20501579221080333#_i32))
-
-Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2021). <b>Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them</b>. <i>Human-Computer Interaction</i>. 36(2), 150-201. ([DOI](https://www.tandfonline.com/doi/full/10.1080/07370024.2019.1578652). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html))
+Shah, D. V., Sun, Z., Bucy, E. P., Kim, S. J., Sun, Y., <b>Li, M.</b>, & Sethares, W. (2024). Building an ICCN multimodal classifier of aggressive political debate style: Towards a computational understanding of candidate performance over time. <i>Communication Methods and Measures</i>, 18(1), 30-47. ([DOI](https://doi.org/10.1080/19312458.2023.2227093))
 
 
-
-## Dissertation
-<b>Lu, Y. _Performative Propaganda Engagement: How Online Celebrity Fandom Engages with State Propaganda in
-China._</b>
-
-<b>Abstract:</b> Established research on authoritarian information control has extensively examined the top-down dissemination of political propaganda and its impact on public attitudes and behaviors. This research introduces a novel theory, <i>performative propaganda engagement</i>, which focuses on individuals who engage with state propaganda in a performative manner to benefit an individual or a group they align with, rather than genuinely endorsing or promoting propaganda. Through mixed methods research approaches, this research empirically investigates performative propaganda engagement within the realm of Chinese online celebrity fandom, a rising cultural force on Chinese social media. The findings reveal that celebrity fans in China actively incorporate the promotion of state propaganda into their daily activities, aiming to enhance the visibility and reputation of their celebrities. I find that celebrity fans performatively engage with state propaganda through three mechanisms — celebrity mobilization, direct state mobilization, and algorithmic visibility manipulation. By exploring the manifestations of performative propaganda engagement, this research contributes to a deeper understanding of the downstream effects of authoritarian information control, contemporary fandom culture in China, the metrics-driven nature of social media ecosystem, and authoritarian resilience in the digital age. 
 
