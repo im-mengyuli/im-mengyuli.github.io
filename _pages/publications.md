@@ -15,7 +15,7 @@ Mak, M. K., <b>Li, M.*</b>, & Rojas, H. (2024). Social Media and Perceived Polit
 Suk, J., Sun, Y., Sun, L., <b>Li, M.</b>, Farías, C., Kwon, H., ... & Shah, D. V. (2024). ‘Think global, act local’: How# MeToo hybridized across borders and platforms for contextual relevance. <i>Information, Communication & Society<i>, 27(3), 498-519. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914](https://doi.org/10.1080/1369118X.2023.2219716))
 
 ## Mediated experience and persuasive effects of multimodal & AI-powered media
-Li, G., <b>Li, M.</b>, Yang, S. The “Whole-of-Society” Approach for Misinformation Correction: Effects of Expert Didactic TikTok Videos Through Perceived Expertise. (R&R). [∗co-first author]
+Li, G., <b>Li, M.*</b>, Yang, S. The “Whole-of-Society” Approach for Misinformation Correction: Effects of Expert Didactic TikTok Videos Through Perceived Expertise. (R&R). [∗co-first author]
 
 <b>Li, M.*</b>, Li, G., Yang, S. (forthcoming) Correction by Distraction: How High-Tempo Music Enhances Medical Experts’ Debunking TikTok Videos. <i>Journal of Computer-Mediated Communication.</i> [∗co-first author]
 
