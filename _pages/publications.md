@@ -19,6 +19,6 @@ Li, G., <b>Li, M.*</b>, Yang, S. The “Whole-of-Society” Approach for Misinfo
 
 <b>Li, M.*</b>, Li, G., Yang, S. (forthcoming) Correction by Distraction: How High-Tempo Music Enhances Medical Experts’ Debunking TikTok Videos. <i>Journal of Computer-Mediated Communication.</i> [∗co-first author]
 
-Li, G., Mak, M., <b>Li, M.</b>, & Rojas, H. (Year). Partisan news use and support for artificial intelligence development: Examining the mediating roles of trust, perceived benefits, and anxiety. Available at [SSRN](http://dx.doi.org/10.2139/ssrn.4763801).
+Li, G., Mak, M., <b>Li, M.</b>, & Rojas, H. (2024). Partisan news use and support for artificial intelligence development: Examining the mediating roles of trust, perceived benefits, and anxiety. Available at [SSRN](http://dx.doi.org/10.2139/ssrn.4763801).
 
 Shah, D. V., Sun, Z., Bucy, E. P., Kim, S. J., Sun, Y., <b>Li, M.</b>, & Sethares, W. (2024). Building an ICCN multimodal classifier of aggressive political debate style: Towards a computational understanding of candidate performance over time. <i>Communication Methods and Measures</i>, 18(1), 30-47. ([DOI](https://doi.org/10.1080/19312458.2023.2227093))
