@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Platform affordances and communication flows in multiplatform media environment
+## Technological affordances and communication flows in multiplatform media environment
 <b>Li, M.</b>, Suk, J., Zhang, Y., Sun, Y., Kwon, H., Lian, R., Wang, Rui., Dong, X., Pevehouse, J., Shah, D. V. Platform Affordances, Discursive Opportunities, and Social Media Activism. (R&R).
 
 Mak, M. K., <b>Li, M.*</b>, & Rojas, H. (2024). Social Media and Perceived Political Polarization: Role of Perceived Platform Affordances, Participation in Uncivil Political Discussion, and Perceived Others’ Engagement. <i>Social Media+ Society</i>, 10(1). [∗co-first author] ([DOI](https://doi.org/10.1177/20563051241228595))
