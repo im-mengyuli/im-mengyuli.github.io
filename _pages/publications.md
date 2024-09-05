@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Technological affordances in multiplatform media environment
-<b>Li, M.</b>, Suk, J., Zhang, Y., Sun, Y., Kwon, H., Lian, R., Wang, Rui., Dong, X., Pevehouse, J., Shah, D. V. Platform Affordances, Discursive Opportunities, and Social Media Activism. (R&R).
+<b>Li, M.</b>, Suk, J., Zhang, Y., Sun, Y., Kwon, H., Lian, R., Wang, Rui., Dong, X., Pevehouse, J., Shah, D. V. Platform Affordances, Discursive Opportunities, and Social Media Activism: A Cross-Platform Analysis of #MeToo on Twitter, Facebook, and Reddit, 2017-2020. <i>New Media & Society</i>. In press.
 
 Mak, M. K., <b>Li, M.*</b>, & Rojas, H. (2024). Social Media and Perceived Political Polarization: Role of Perceived Platform Affordances, Participation in Uncivil Political Discussion, and Perceived Others’ Engagement. <i>Social Media+ Society</i>, 10(1). [∗co-first author] ([DOI](https://doi.org/10.1177/20563051241228595))
 
