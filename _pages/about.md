@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I', Mengyu Li, an Assistant Professor in the [Department of Media Production, Management, and Technology](https://www.jou.ufl.edu/mpmt/) in the [College of Journalism and Communications](https://www.jou.ufl.edu/) at the University of Florida.
+Hi, I'm Mengyu Li, an Assistant Professor in the [Department of Media Production, Management, and Technology](https://www.jou.ufl.edu/mpmt/) in the [College of Journalism and Communications](https://www.jou.ufl.edu/) at the University of Florida.
 
 My research examines how emerging media technologies shape public attention, collective responses, and democratic participation around political, health, and social justice issues. Using computational and quantitative methods, I study communication processes across networked, cross-platform, and multimodal media environments. My work explores digital media, political communication, media effects, artificial intelligence, social media activism, and health communication. More specifically, I examine how digital media shape people’s perceptions of and engagement with gender politics and women’s health issues. I employ computational methods—including natural language processing, large language models, and multimodal analysis—as well as quantitative methods, including web-based experiments and cross-national surveys.
 
